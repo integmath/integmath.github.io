@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: 遊牧空間
+github:
+is\_project\_page:false
