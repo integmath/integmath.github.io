@@ -1,4 +1,5 @@
-> 書くよりも考えている方が面白いに決まっていそうなのに，書物が生まれる．<div style="text-align: right;">──加藤郁乎『遊牧空間』</div>
+> 書くよりも考えている方が面白いに決まっていそうなのに，書物が生まれる．
+> <div style="text-align: right;">──加藤郁乎『遊牧空間』</div>
 
 
 ここにあるのは，いんてぐま（[@integmath](https://twitter.com/integmath)）が書いた数学のノートです．
