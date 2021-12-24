@@ -1,7 +1,7 @@
 ここにあるのは，私（[@integmath](https://twitter.com/integmath)）が書いた数学のノートです．
 あくまでも個人的なまとめノートなので（書いた当時の）私以外にはわかりにくいかもしれません．
 とは言え，あとで読み返すときのことを考えて証明はなるべく丁寧に書いたつもりです．  
-いずれのノートもself-containedでもなければ網羅的でもないことをあらかじめ断っておきます．　
+いずれのノートもself-containedでもなければ網羅的でもないことをあらかじめ断っておきます．
 
-* [固有写像とその周辺](proper-map.md)
-* [New Spaces from Old](nsfo.md) 
+* [固有写像とその周辺](proper-map.md)（2021-12-06: 公開．）
+* [New Spaces from Old](nsfo.md) （2021-12-06: 公開．）
