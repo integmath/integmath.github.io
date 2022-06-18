@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: 遊牧空間
-author:
-  name: "integmath"
+github:
+   is_project_page:false  
