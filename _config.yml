@@ -1,9 +1,12 @@
 # theme: jekyll-theme-minimal
 theme: minima
 title: 遊牧空間
-# github:
-#   is_project_page:false
+author:
+  name: integmath
+description: abc
 
+minima:
+ date_format: "%Y-%m-%d"
 header_pages:
 - note.md
 - marginalia.md
