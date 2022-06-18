@@ -1,15 +1,21 @@
 # theme: jekyll-theme-minimal
-theme: minima
 title: 遊牧空間
 author:
   name: "integmath"
-description: abc
+description: > 
+  abc
+
+show_excerpts: false
 
 minima:
  date_format: "%Y-%m-%d"
+
 header_pages:
 - note.md
 - marginalia.md
 
-social_links:
- twitter: integmath
+minima:
+ social_links:
+  twitter: integmath
+
+theme: minima
